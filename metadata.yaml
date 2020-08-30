@@ -1,5 +1,8 @@
 _repo: The-Tyranny-of-Shams_62961
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62961-h/images/cover.jpg
 creator:
   author:
     agent_name: McCabe, Joseph
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/521
     wikipedia: http://en.wikipedia.org/wiki/Joseph_McCabe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62961#The-Tyranny-of-Shams
 gutenberg_issued: '2020-08-17'
 gutenberg_type: Text
 identifiers:
