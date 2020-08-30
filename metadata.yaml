@@ -1,0 +1,36 @@
+_repo: The-Tyranny-of-Shams_62961
+_version: 0.0.1
+creator:
+  author:
+    agent_name: McCabe, Joseph
+    aliases:
+    - Macabe, Joseph
+    - Antony, Father
+    - McCabe, Antony
+    birthdate: 1867
+    deathdate: 1955
+    gutenberg_agent_id: '521'
+    url: http://www.gutenberg.org/2009/agents/521
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_McCabe
+description: ''
+gutenberg_issued: '2020-08-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62961'
+  lccn: '16022762'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Social problems'
+- !lcsh 'Great Britain -- Social conditions'
+- !lcsh 'Moral conditions'
+- !lcc 'HN'
+- GITenberg
+tableOfContents: The philosophy of revolt -- The military sham -- The follies of sham
+  patriotism -- Political shams -- The distribution of wealth -- Idols of the home
+  -- The future of woman -- Shams of the school -- The education of the adult -- The
+  clerical sham.
+title: The Tyranny of Shams
+url: http://www.gutenberg.org/ebooks/62961
